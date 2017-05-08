@@ -1,7 +1,7 @@
 # nginxphp
 
-git clone https://github.com/atreyo/nginxphp.git 
+git clone https://github.com/atreyo/nginx-php.git 
 
-cd nginxphp
+cd nginx-php
 
 docker-compose up -d
